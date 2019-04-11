@@ -4,7 +4,8 @@
 
 Credits for original themes/schemes/inspiration:
 
-Base16 Eighties Dark by Chris Kempson:
+Base16 / Tomorrow Night Eighties by Chris Kempson:
 - http://chriskempson.com
 - https://github.com/chriskempson/base16
 - https://github.com/chriskempson/base16-tomorrow-scheme
+- https://github.com/ChrisKempson/Tomorrow-Theme#tomorrow-night-eighties
