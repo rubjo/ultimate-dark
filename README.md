@@ -1,6 +1,6 @@
 # Ultimate Dark
 
-## My take on the ultimate dark colour theme for code
+## My take on the ultimate dark colour scheme for code
 
 ![Screenshot: JavaScript](https://github.com/rubjo/ultimate-dark/raw/master/screenshots/javascript.png "Screenshot: JavaScript")
 
