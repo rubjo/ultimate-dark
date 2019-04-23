@@ -2,7 +2,7 @@
 
 ## My take on the ultimate dark colour scheme for code
 
-![Screenshot](https://github.com/rubjo/ultimate-dark/raw/master/screenshots/javascript.png)
+![Screenshot](screenshots/javascript.png)
 
 Credits for original themes/schemes/inspiration:
 
