@@ -2,8 +2,8 @@
 
 *My take on the ultimate dark colour scheme for code (main focus: finding pleasant settings for HTML/CSS/JS). So far, this is essentially [Base16 / Tomorrow Night Eighties](#credits-and-inspiration) with modifications (italics + minor adjustments).*
 
-![Screenshot](screenshots/javascript.png)
-*The font used in the screenshot is [__PT Mono__](https://company.paratype.com/pt-sans-pt-serif). UI Theme: Spacegray Eighties(https://github.com/kkga/spacegray)*
+![Screenshot](screenshots/screenshot.png)
+*The font used in the screenshot is [__Victor Mono__](https://rubjo.github.io/victor-mono). UI Theme: Spacegray Eighties(https://github.com/kkga/spacegray)*
 
 ***
 
